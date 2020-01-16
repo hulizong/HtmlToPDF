@@ -1,0 +1,17 @@
+G:\项目\测试项目\HtmlToPDF\HtmlToPDF\bin\Debug\netcoreapp2.2\appsettings.Development.json
+G:\项目\测试项目\HtmlToPDF\HtmlToPDF\bin\Debug\netcoreapp2.2\appsettings.json
+G:\项目\测试项目\HtmlToPDF\HtmlToPDF\bin\Debug\netcoreapp2.2\Properties\launchSettings.json
+G:\项目\测试项目\HtmlToPDF\HtmlToPDF\bin\Debug\netcoreapp2.2\HtmlToPDF.deps.json
+G:\项目\测试项目\HtmlToPDF\HtmlToPDF\bin\Debug\netcoreapp2.2\HtmlToPDF.runtimeconfig.json
+G:\项目\测试项目\HtmlToPDF\HtmlToPDF\bin\Debug\netcoreapp2.2\HtmlToPDF.runtimeconfig.dev.json
+G:\项目\测试项目\HtmlToPDF\HtmlToPDF\bin\Debug\netcoreapp2.2\HtmlToPDF.dll
+G:\项目\测试项目\HtmlToPDF\HtmlToPDF\obj\Debug\netcoreapp2.2\HtmlToPDF.csprojAssemblyReference.cache
+G:\项目\测试项目\HtmlToPDF\HtmlToPDF\obj\Debug\netcoreapp2.2\HtmlToPDF.RazorAssemblyInfo.cache
+G:\项目\测试项目\HtmlToPDF\HtmlToPDF\obj\Debug\netcoreapp2.2\HtmlToPDF.RazorAssemblyInfo.cs
+G:\项目\测试项目\HtmlToPDF\HtmlToPDF\obj\Debug\netcoreapp2.2\HtmlToPDF.AssemblyInfoInputs.cache
+G:\项目\测试项目\HtmlToPDF\HtmlToPDF\obj\Debug\netcoreapp2.2\HtmlToPDF.AssemblyInfo.cs
+G:\项目\测试项目\HtmlToPDF\HtmlToPDF\obj\Debug\netcoreapp2.2\HtmlToPDF.RazorTargetAssemblyInfo.cache
+G:\项目\测试项目\HtmlToPDF\HtmlToPDF\bin\Debug\netcoreapp2.2\Select.Html.dep
+G:\项目\测试项目\HtmlToPDF\HtmlToPDF\bin\Debug\netcoreapp2.2\HtmlToPDF.pdb
+G:\项目\测试项目\HtmlToPDF\HtmlToPDF\obj\Debug\netcoreapp2.2\HtmlToPDF.dll
+G:\项目\测试项目\HtmlToPDF\HtmlToPDF\obj\Debug\netcoreapp2.2\HtmlToPDF.pdb
